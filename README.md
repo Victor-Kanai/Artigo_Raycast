@@ -1,3 +1,12 @@
+<p align="center">
+  <img 
+    src="Images/Artigo_Capa.png"
+    width="400"  
+  />
+</p>
+
+-----------
+
 ## Introdução:
 Quer descobrir uma técnica poderosa que vai transformar seus jogos? O raycast é como uma visão de raio-x para desenvolvedores, permitindo detectar objetos e criar interações incríveis. Seja em 2D ou 3D, essa ferramenta é essencial para levar sua jogabilidade a um novo nível. Vamos explorar juntos o mundo dos raycasts e ver como eles podem revolucionar seu próximo projeto de jogo!
 
