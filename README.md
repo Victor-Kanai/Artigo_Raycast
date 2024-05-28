@@ -1,11 +1,21 @@
+## Prompts utilizados para fazer este artigo:
+
+| Ação | Prompt |
+|------|--------|
+| Título | Crie 5 headlines para um artigo com o assunto sendo, Raycast da Unity |
+| Conteúdo | Comporte-se como um escritor de artigos Dev de jogos e me escreva um artigo atendendo as regras abaixo: Regras: No máximo 5 linhas por blocos de explicação; Me explique de maneira informal, como se eu estivesse começando a aprender sobre o raycast;  Os  blocos que serão citados são: O que é Raycast? Como ele funciona? Raycast 2D e 3D Como fazer o raycast detectar game objects Call back to action para o leitor iniciar o uso de raycasts em seus jogos |
+
+-------------
+
 <p align="center">
   <img 
-    src="Images/Artigo_Capa.png"
-    width="400"  
+    src="Images/Artigo_Capa.png"   
   />
 </p>
 
 -----------
+
+# Physics.Raycast: Aprenda a Detectar Colisões e Interações nos Jogos
 
 ## Introdução:
 Quer descobrir uma técnica poderosa que vai transformar seus jogos? O raycast é como uma visão de raio-x para desenvolvedores, permitindo detectar objetos e criar interações incríveis. Seja em 2D ou 3D, essa ferramenta é essencial para levar sua jogabilidade a um novo nível. Vamos explorar juntos o mundo dos raycasts e ver como eles podem revolucionar seu próximo projeto de jogo!
